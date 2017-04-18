@@ -1,0 +1,3 @@
+rootProject.name = 'BrowserSaya'
+
+include ':app'
